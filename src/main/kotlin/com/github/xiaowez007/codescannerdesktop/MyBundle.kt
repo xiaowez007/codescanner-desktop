@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.xiaowez007.codescannerdesktop
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
